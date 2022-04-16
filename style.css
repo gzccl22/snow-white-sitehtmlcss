@@ -1,0 +1,44 @@
+    body {
+        background: #ffff;
+        font-family: Verdana;
+       max-width: ;width: 900px;
+        margin: auto;
+    }
+    
+    
+    
+    
+    
+    #post_title {
+        color:blueviolet
+   }
+   #post_title {
+       font-size: 30px;
+       font-style: italic;
+    
+   }
+
+   .post {
+    background: #e0dcdc;
+    padding: 30px;
+    border-width: 15px;
+border-style: solid;
+border-color: rgb(21, 44, 10);
+margin: 12px;
+    
+        }
+
+ .post_content {
+  margin: 0;
+  margin-bottom: 15px;
+  text-align: center;
+        }
+   
+.contacts_list {
+    list-style-type: none;
+   padding-left: 15px;
+}
+     .contacts_list li a {
+         color: black;
+     }   
+    
